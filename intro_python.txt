@@ -1,0 +1,51 @@
+Python 1989 (lançada versão pública em 1991).
+1994 Python 1.0
+1995 BeOpen Python Labs
+2001 Python Software Foundations (PSE)
+2008 Python 3.0
+
+Criador Guido Van Rossum
+Hobby, baseado pela linguagem ABC (criado no Centrum Wiskunde & Informatica (CWI) is the national research institute for mathematics and computer science in the Netherlands)
+
+Objetivos da linguagem: 
+-Uma linguagem fácil e intuitiva
+- Código abreto
+- Código inteligível quanto inglês
+- adequada a tarefas diárias e produtivas
+
+
+#### Códigos de Python 2 não roda Python 3
+### linguagem mais utilizada
+
+### Mobile não é o forte do Python!
+
+
+######## Aula 2 
+
+
+Instalação de python e IDE
+
+Baixar o instalador no 2001 Python Software Foundations (PSE)
+VSCode é uma boa opção quando quer usar outras linguagens (i.e. CSS, 
+
+### instalação de bibliotecas que facilitam a programação (versão Jupyter lab) 
+
+####  jupyterlab-autodocstring #### 
+
+O jupyterlab-autodocstring é uma extensão para o JupyterLab que facilita a inserção automática de templates de docstrings em funções escritas nos notebooks. Após digitar o cabeçalho da função e abrir aspas triplas, o recurso gera um esqueleto de documentação (docstring) padronizado automaticamente, que pode seguir formatos como Google ou NumPy.
+
+Com essa extensão, o desenvolvedor ganha tempo ao escrever documentação clara e consistente para suas funções e classes dentro do JupyterLab, melhorando a qualidade do código e a manutenção futura.
+
+Para usar, basta digitar a definição da função, abrir as aspas triplas, e usar o comando de auto-completar (exemplo: tecla TAB) para que o template apareça instantaneamente. É necessário ter JupyterLab versão 4.0.0 ou superior, e instalar a extensão via pip.
+
+Resumindo: o jupyterlab-autodocstring automatiza a criação de docstrings no JupyterLab, simplificando a documentação de código Python durante o desenvolvimento interativo.
+
+
+Aula 3
+
+Programar é como criar e executar uma receita de bolo
+
+Programas são gerados em extensão .py (não é um notebook)
+
+
+
