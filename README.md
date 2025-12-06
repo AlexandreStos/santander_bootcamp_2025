@@ -1,5 +1,6 @@
 ## Diretório do Bootcamp Santander 2025
 
-- Noteboks
+- Notebooks
 - Códigos
 - Materiais para consulta 
+
