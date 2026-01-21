@@ -1,0 +1,301 @@
+id,nome,categoria_peso,idade,graduacao,pais_origem,vitorias_campeonato,derrotas_campeonato,posicao_ranking,pct_pontos,pct_finalizacao,modalidade_favorita,finalizacao_mais_frequente,finalizacao_favorita,posicionamento_favorito,nivel_atleta
+1,Atleta_001,Pluma,18,Faixa Marrom,EUA,33,8,95,40,60,Gi,Chave de calcanhar,Chave de calcanhar,Passador,Profissional
+2,Atleta_002,Galo,20,Faixa Roxa,EUA,69,38,4,78,22,Gi,Chave de calcanhar,Chave de calcanhar,Guardeiro,Amador
+3,Atleta_003,Meio-Pesado,18,Faixa Roxa,Itália,59,21,36,52,48,Gi,Armlock,Estrangulamento cruzado,Guardeiro,Amador
+4,Atleta_004,Super-Pesado,21,Faixa Marrom,Japão,49,38,34,75,25,Gi,Chave de calcanhar,Guilhotina,Passador,Profissional
+5,Atleta_005,Meio-Pesado,38,Faixa Marrom,França,29,4,6,75,25,Gi,Estrangulamento cruzado,Triângulo,Passador,Amador
+6,Atleta_006,Super-Pesado,26,Faixa Preta,Itália,51,10,48,74,26,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Amador
+7,Atleta_007,Leve,35,Faixa Roxa,EUA,64,24,35,42,58,Gi,Chave de calcanhar,Triângulo,Passador,Amador
+8,Atleta_008,Pesado,30,Faixa Marrom,Brasil,32,36,92,78,22,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Profissional
+9,Atleta_009,Pesadíssimo,22,Faixa Marrom,EUA,36,35,69,39,61,No-Gi,Chave de calcanhar,Omoplata,Guardeiro,Profissional
+10,Atleta_010,Médio,22,Faixa Preta,Brasil,11,7,20,57,43,Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Amador
+11,Atleta_011,Super-Pesado,37,Faixa Preta,França,37,35,2,56,44,Gi,Chave de calcanhar,Omoplata,Guardeiro,Profissional
+12,Atleta_012,Meio-Pesado,31,Faixa Roxa,Espanha,5,16,65,73,27,Gi,Omoplata,Mata-leão,Guardeiro,Amador
+13,Atleta_013,Pesado,23,Faixa Azul,França,46,31,3,71,29,Gi,Triângulo,Estrangulamento cruzado,Guardeiro,Amador
+14,Atleta_014,Médio,36,Faixa Azul,Brasil,67,4,98,77,23,Gi,Armlock,Chave de calcanhar,Guardeiro,Amador
+15,Atleta_015,Super-Pesado,24,Faixa Roxa,Itália,44,25,86,64,36,No-Gi,Guilhotina,Omoplata,Guardeiro,Amador
+16,Atleta_016,Médio,20,Faixa Marrom,Brasil,80,35,30,65,35,Gi,Mata-leão,Mata-leão,Passador,Amador
+17,Atleta_017,Galo,28,Faixa Azul,França,35,17,86,76,24,No-Gi,Armlock,Omoplata,Passador,Profissional
+18,Atleta_018,Pesadíssimo,31,Faixa Roxa,Brasil,17,27,46,65,35,No-Gi,Guilhotina,Guilhotina,Passador,Amador
+19,Atleta_019,Super-Pesado,28,Faixa Azul,EUA,29,12,69,77,23,No-Gi,Armlock,Guilhotina,Passador,Profissional
+20,Atleta_020,Médio,20,Faixa Preta,Japão,75,6,7,51,49,Gi,Mata-leão,Estrangulamento cruzado,Passador,Amador
+21,Atleta_021,Pesadíssimo,33,Faixa Roxa,Japão,56,3,22,54,46,No-Gi,Mata-leão,Guilhotina,Guardeiro,Profissional
+22,Atleta_022,Super-Pesado,40,Faixa Preta,EUA,29,18,28,62,38,Gi,Omoplata,Chave de calcanhar,Passador,Profissional
+23,Atleta_023,Galo,36,Faixa Preta,França,72,10,8,77,23,Gi,Estrangulamento cruzado,Armlock,Passador,Amador
+24,Atleta_024,Médio,30,Faixa Azul,França,36,37,77,37,63,Gi,Omoplata,Mata-leão,Guardeiro,Profissional
+25,Atleta_025,Médio,39,Faixa Marrom,EUA,38,25,17,64,36,No-Gi,Guilhotina,Triângulo,Passador,Amador
+26,Atleta_026,Pluma,20,Faixa Roxa,França,38,8,45,51,49,Gi,Armlock,Triângulo,Guardeiro,Amador
+27,Atleta_027,Meio-Pesado,37,Faixa Azul,Itália,75,19,85,52,48,Gi,Armlock,Triângulo,Passador,Amador
+28,Atleta_028,Leve,26,Faixa Marrom,França,31,21,27,33,67,No-Gi,Omoplata,Guilhotina,Guardeiro,Amador
+29,Atleta_029,Super-Pesado,26,Faixa Azul,Brasil,47,8,82,75,25,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Profissional
+30,Atleta_030,Galo,21,Faixa Azul,Itália,24,34,5,45,55,No-Gi,Omoplata,Omoplata,Passador,Profissional
+31,Atleta_031,Galo,27,Faixa Marrom,Japão,10,22,27,72,28,Gi,Chave de calcanhar,Mata-leão,Guardeiro,Profissional
+32,Atleta_032,Leve,25,Faixa Roxa,Japão,27,26,4,41,59,Gi,Chave de calcanhar,Triângulo,Guardeiro,Amador
+33,Atleta_033,Leve,40,Faixa Azul,Espanha,9,30,29,63,37,Gi,Estrangulamento cruzado,Guilhotina,Guardeiro,Profissional
+34,Atleta_034,Médio,25,Faixa Azul,Itália,29,25,43,30,70,No-Gi,Estrangulamento cruzado,Mata-leão,Guardeiro,Profissional
+35,Atleta_035,Super-Pesado,39,Faixa Marrom,Brasil,19,16,23,39,61,No-Gi,Mata-leão,Mata-leão,Guardeiro,Profissional
+36,Atleta_036,Pesado,31,Faixa Azul,Espanha,78,12,33,34,66,Gi,Chave de calcanhar,Guilhotina,Passador,Amador
+37,Atleta_037,Super-Pesado,20,Faixa Marrom,França,45,7,93,57,43,No-Gi,Omoplata,Triângulo,Guardeiro,Profissional
+38,Atleta_038,Meio-Pesado,35,Faixa Roxa,EUA,58,24,87,55,45,Gi,Omoplata,Omoplata,Guardeiro,Profissional
+39,Atleta_039,Galo,27,Faixa Marrom,EUA,60,37,78,45,55,No-Gi,Guilhotina,Guilhotina,Guardeiro,Amador
+40,Atleta_040,Pesadíssimo,23,Faixa Azul,Portugal,70,40,80,48,52,No-Gi,Mata-leão,Estrangulamento cruzado,Passador,Profissional
+41,Atleta_041,Médio,22,Faixa Azul,Brasil,36,30,79,66,34,Gi,Guilhotina,Guilhotina,Passador,Profissional
+42,Atleta_042,Super-Pesado,25,Faixa Roxa,Itália,5,6,100,49,51,No-Gi,Armlock,Armlock,Guardeiro,Amador
+43,Atleta_043,Médio,21,Faixa Preta,EUA,64,33,72,45,55,No-Gi,Estrangulamento cruzado,Guilhotina,Guardeiro,Profissional
+44,Atleta_044,Pesadíssimo,32,Faixa Marrom,Japão,36,40,36,70,30,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Profissional
+45,Atleta_045,Meio-Pesado,25,Faixa Marrom,Portugal,45,34,11,76,24,Gi,Armlock,Armlock,Guardeiro,Amador
+46,Atleta_046,Médio,20,Faixa Preta,Espanha,47,34,60,35,65,No-Gi,Mata-leão,Armlock,Guardeiro,Profissional
+47,Atleta_047,Galo,36,Faixa Preta,Espanha,5,22,39,31,69,No-Gi,Estrangulamento cruzado,Estrangulamento cruzado,Guardeiro,Amador
+48,Atleta_048,Médio,26,Faixa Preta,Espanha,8,24,44,49,51,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Amador
+49,Atleta_049,Galo,30,Faixa Azul,Brasil,59,8,60,41,59,Gi,Mata-leão,Triângulo,Guardeiro,Profissional
+50,Atleta_050,Pesadíssimo,28,Faixa Marrom,Japão,53,17,97,67,33,No-Gi,Triângulo,Estrangulamento cruzado,Passador,Profissional
+51,Atleta_051,Galo,29,Faixa Roxa,Itália,13,2,97,79,21,Gi,Armlock,Armlock,Passador,Amador
+52,Atleta_052,Leve,33,Faixa Azul,França,32,29,90,65,35,No-Gi,Estrangulamento cruzado,Triângulo,Passador,Amador
+53,Atleta_053,Leve,27,Faixa Azul,França,8,19,74,31,69,No-Gi,Guilhotina,Chave de calcanhar,Passador,Amador
+54,Atleta_054,Médio,21,Faixa Marrom,Japão,20,36,6,43,57,No-Gi,Omoplata,Guilhotina,Guardeiro,Amador
+55,Atleta_055,Pesado,18,Faixa Preta,Japão,67,6,56,48,52,No-Gi,Chave de calcanhar,Estrangulamento cruzado,Guardeiro,Amador
+56,Atleta_056,Leve,34,Faixa Marrom,França,73,30,60,53,47,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Profissional
+57,Atleta_057,Pluma,26,Faixa Preta,EUA,64,36,79,65,35,No-Gi,Triângulo,Mata-leão,Guardeiro,Profissional
+58,Atleta_058,Pesadíssimo,24,Faixa Marrom,Japão,38,21,36,69,31,No-Gi,Omoplata,Mata-leão,Passador,Amador
+59,Atleta_059,Super-Pesado,33,Faixa Roxa,Itália,65,31,58,65,35,Gi,Mata-leão,Triângulo,Passador,Profissional
+60,Atleta_060,Médio,27,Faixa Marrom,Espanha,75,33,45,36,64,No-Gi,Chave de calcanhar,Omoplata,Guardeiro,Profissional
+61,Atleta_061,Pesadíssimo,26,Faixa Marrom,Portugal,34,7,93,36,64,Gi,Triângulo,Mata-leão,Passador,Amador
+62,Atleta_062,Pesadíssimo,26,Faixa Marrom,Brasil,29,18,30,67,33,No-Gi,Armlock,Triângulo,Passador,Amador
+63,Atleta_063,Galo,19,Faixa Marrom,Itália,21,40,97,63,37,No-Gi,Mata-leão,Estrangulamento cruzado,Passador,Profissional
+64,Atleta_064,Pesadíssimo,32,Faixa Marrom,EUA,11,16,62,50,50,Gi,Estrangulamento cruzado,Mata-leão,Guardeiro,Profissional
+65,Atleta_065,Galo,22,Faixa Roxa,Japão,77,19,11,76,24,Gi,Mata-leão,Omoplata,Guardeiro,Amador
+66,Atleta_066,Super-Pesado,32,Faixa Preta,Portugal,80,27,40,31,69,Gi,Omoplata,Chave de calcanhar,Passador,Amador
+67,Atleta_067,Médio,26,Faixa Azul,EUA,35,11,71,40,60,Gi,Armlock,Mata-leão,Guardeiro,Profissional
+68,Atleta_068,Pesadíssimo,27,Faixa Azul,EUA,41,18,90,36,64,No-Gi,Mata-leão,Chave de calcanhar,Passador,Profissional
+69,Atleta_069,Médio,31,Faixa Azul,França,33,9,35,30,70,Gi,Mata-leão,Mata-leão,Passador,Profissional
+70,Atleta_070,Meio-Pesado,32,Faixa Azul,Espanha,43,25,35,42,58,No-Gi,Guilhotina,Mata-leão,Passador,Profissional
+71,Atleta_071,Pesado,37,Faixa Marrom,Brasil,16,14,87,33,67,Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Amador
+72,Atleta_072,Leve,33,Faixa Preta,Portugal,28,37,56,32,68,No-Gi,Mata-leão,Guilhotina,Guardeiro,Profissional
+73,Atleta_073,Pesado,39,Faixa Azul,Japão,25,21,53,59,41,No-Gi,Triângulo,Chave de calcanhar,Guardeiro,Amador
+74,Atleta_074,Pluma,28,Faixa Marrom,Portugal,19,25,66,51,49,Gi,Chave de calcanhar,Estrangulamento cruzado,Guardeiro,Profissional
+75,Atleta_075,Médio,34,Faixa Marrom,França,68,40,57,77,23,Gi,Armlock,Triângulo,Passador,Profissional
+76,Atleta_076,Pesadíssimo,21,Faixa Azul,Itália,35,10,40,52,48,Gi,Omoplata,Guilhotina,Passador,Amador
+77,Atleta_077,Pesadíssimo,21,Faixa Roxa,Espanha,42,32,91,73,27,No-Gi,Guilhotina,Estrangulamento cruzado,Guardeiro,Profissional
+78,Atleta_078,Pesadíssimo,35,Faixa Roxa,Espanha,29,38,66,65,35,Gi,Estrangulamento cruzado,Mata-leão,Guardeiro,Profissional
+79,Atleta_079,Meio-Pesado,18,Faixa Marrom,Itália,43,37,75,59,41,No-Gi,Estrangulamento cruzado,Armlock,Guardeiro,Profissional
+80,Atleta_080,Pesado,35,Faixa Preta,Espanha,46,12,90,58,42,Gi,Omoplata,Guilhotina,Passador,Profissional
+81,Atleta_081,Pesado,33,Faixa Preta,Espanha,24,31,5,78,22,Gi,Omoplata,Omoplata,Guardeiro,Amador
+82,Atleta_082,Pluma,34,Faixa Preta,Brasil,23,26,84,52,48,Gi,Mata-leão,Guilhotina,Guardeiro,Profissional
+83,Atleta_083,Super-Pesado,38,Faixa Azul,Japão,47,34,49,41,59,No-Gi,Chave de calcanhar,Chave de calcanhar,Guardeiro,Amador
+84,Atleta_084,Pluma,25,Faixa Marrom,EUA,16,27,13,41,59,Gi,Guilhotina,Armlock,Guardeiro,Amador
+85,Atleta_085,Pesado,19,Faixa Marrom,Portugal,52,27,19,78,22,Gi,Omoplata,Guilhotina,Passador,Amador
+86,Atleta_086,Pluma,37,Faixa Preta,França,35,31,75,69,31,Gi,Armlock,Guilhotina,Guardeiro,Profissional
+87,Atleta_087,Galo,32,Faixa Marrom,Itália,74,10,10,64,36,No-Gi,Triângulo,Omoplata,Guardeiro,Profissional
+88,Atleta_088,Meio-Pesado,32,Faixa Marrom,EUA,54,30,14,36,64,Gi,Guilhotina,Omoplata,Guardeiro,Profissional
+89,Atleta_089,Meio-Pesado,18,Faixa Preta,Portugal,6,36,88,36,64,Gi,Omoplata,Chave de calcanhar,Guardeiro,Profissional
+90,Atleta_090,Médio,37,Faixa Marrom,EUA,29,39,33,31,69,Gi,Chave de calcanhar,Mata-leão,Passador,Profissional
+91,Atleta_091,Pesadíssimo,19,Faixa Marrom,Itália,21,5,38,30,70,No-Gi,Chave de calcanhar,Guilhotina,Passador,Amador
+92,Atleta_092,Pesado,34,Faixa Marrom,Japão,26,16,62,72,28,No-Gi,Chave de calcanhar,Estrangulamento cruzado,Guardeiro,Amador
+93,Atleta_093,Pluma,22,Faixa Roxa,Japão,55,35,47,51,49,Gi,Estrangulamento cruzado,Guilhotina,Passador,Profissional
+94,Atleta_094,Pluma,32,Faixa Marrom,Itália,38,37,49,46,54,No-Gi,Mata-leão,Chave de calcanhar,Passador,Profissional
+95,Atleta_095,Pesado,37,Faixa Roxa,Itália,13,40,60,79,21,No-Gi,Chave de calcanhar,Guilhotina,Passador,Amador
+96,Atleta_096,Galo,27,Faixa Preta,Brasil,17,15,69,78,22,Gi,Guilhotina,Guilhotina,Guardeiro,Profissional
+97,Atleta_097,Leve,31,Faixa Azul,Japão,67,39,53,43,57,No-Gi,Mata-leão,Chave de calcanhar,Guardeiro,Amador
+98,Atleta_098,Pesadíssimo,25,Faixa Marrom,Brasil,52,34,83,52,48,No-Gi,Mata-leão,Guilhotina,Guardeiro,Amador
+99,Atleta_099,Pesadíssimo,20,Faixa Roxa,Itália,7,3,43,73,27,Gi,Armlock,Estrangulamento cruzado,Passador,Amador
+100,Atleta_100,Médio,36,Faixa Roxa,Japão,34,21,100,32,68,Gi,Estrangulamento cruzado,Omoplata,Passador,Profissional
+101,Atleta_101,Leve,35,Faixa Marrom,Japão,27,7,85,71,29,Gi,Armlock,Mata-leão,Guardeiro,Amador
+102,Atleta_102,Pesado,18,Faixa Roxa,Portugal,11,8,95,43,57,No-Gi,Omoplata,Mata-leão,Passador,Profissional
+103,Atleta_103,Pesado,34,Faixa Azul,Espanha,69,14,79,52,48,Gi,Chave de calcanhar,Estrangulamento cruzado,Guardeiro,Profissional
+104,Atleta_104,Galo,19,Faixa Preta,Japão,56,27,88,39,61,Gi,Guilhotina,Chave de calcanhar,Guardeiro,Amador
+105,Atleta_105,Pesado,37,Faixa Roxa,Brasil,21,17,80,75,25,No-Gi,Guilhotina,Omoplata,Guardeiro,Profissional
+106,Atleta_106,Super-Pesado,21,Faixa Azul,Japão,75,13,56,48,52,No-Gi,Armlock,Guilhotina,Guardeiro,Profissional
+107,Atleta_107,Super-Pesado,21,Faixa Marrom,Espanha,45,16,48,55,45,Gi,Chave de calcanhar,Guilhotina,Passador,Amador
+108,Atleta_108,Pluma,31,Faixa Azul,Itália,52,8,72,75,25,Gi,Omoplata,Omoplata,Guardeiro,Amador
+109,Atleta_109,Pesado,39,Faixa Preta,Japão,11,18,77,54,46,No-Gi,Triângulo,Mata-leão,Passador,Amador
+110,Atleta_110,Pesadíssimo,25,Faixa Azul,Portugal,76,23,15,38,62,No-Gi,Omoplata,Armlock,Guardeiro,Amador
+111,Atleta_111,Meio-Pesado,18,Faixa Roxa,Portugal,44,21,45,42,58,Gi,Armlock,Estrangulamento cruzado,Passador,Profissional
+112,Atleta_112,Leve,38,Faixa Azul,Brasil,72,13,49,76,24,No-Gi,Guilhotina,Triângulo,Passador,Profissional
+113,Atleta_113,Pesado,36,Faixa Azul,Brasil,24,10,97,61,39,Gi,Chave de calcanhar,Mata-leão,Guardeiro,Profissional
+114,Atleta_114,Super-Pesado,33,Faixa Preta,Espanha,39,13,97,38,62,Gi,Triângulo,Guilhotina,Passador,Profissional
+115,Atleta_115,Pesadíssimo,34,Faixa Marrom,Brasil,33,25,77,37,63,Gi,Mata-leão,Armlock,Guardeiro,Amador
+116,Atleta_116,Leve,26,Faixa Marrom,Portugal,20,0,64,31,69,No-Gi,Armlock,Armlock,Guardeiro,Amador
+117,Atleta_117,Pesado,20,Faixa Preta,Japão,10,27,3,48,52,No-Gi,Mata-leão,Estrangulamento cruzado,Guardeiro,Profissional
+118,Atleta_118,Super-Pesado,40,Faixa Preta,Portugal,19,25,3,44,56,No-Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+119,Atleta_119,Super-Pesado,21,Faixa Roxa,Espanha,80,25,68,75,25,Gi,Guilhotina,Estrangulamento cruzado,Guardeiro,Profissional
+120,Atleta_120,Pesado,23,Faixa Azul,França,19,33,66,66,34,Gi,Estrangulamento cruzado,Triângulo,Guardeiro,Amador
+121,Atleta_121,Pluma,22,Faixa Marrom,EUA,27,38,20,65,35,Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+122,Atleta_122,Pesadíssimo,39,Faixa Marrom,Japão,45,9,57,32,68,Gi,Guilhotina,Guilhotina,Guardeiro,Profissional
+123,Atleta_123,Galo,29,Faixa Azul,Portugal,64,28,5,43,57,Gi,Triângulo,Estrangulamento cruzado,Guardeiro,Amador
+124,Atleta_124,Pluma,37,Faixa Preta,Espanha,79,35,95,39,61,Gi,Guilhotina,Estrangulamento cruzado,Passador,Profissional
+125,Atleta_125,Pesadíssimo,34,Faixa Roxa,Brasil,62,6,44,42,58,Gi,Omoplata,Chave de calcanhar,Passador,Amador
+126,Atleta_126,Pesadíssimo,32,Faixa Roxa,Portugal,52,18,50,65,35,No-Gi,Estrangulamento cruzado,Triângulo,Passador,Profissional
+127,Atleta_127,Pesado,21,Faixa Preta,Portugal,37,38,20,76,24,No-Gi,Mata-leão,Omoplata,Passador,Profissional
+128,Atleta_128,Super-Pesado,22,Faixa Azul,Portugal,76,24,83,61,39,No-Gi,Estrangulamento cruzado,Armlock,Passador,Profissional
+129,Atleta_129,Pesado,18,Faixa Marrom,Portugal,28,13,44,48,52,No-Gi,Armlock,Armlock,Passador,Amador
+130,Atleta_130,Meio-Pesado,21,Faixa Azul,Itália,48,39,17,76,24,No-Gi,Armlock,Armlock,Passador,Amador
+131,Atleta_131,Pesadíssimo,19,Faixa Preta,Portugal,35,28,79,34,66,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Amador
+132,Atleta_132,Médio,27,Faixa Preta,Japão,29,23,87,46,54,No-Gi,Guilhotina,Estrangulamento cruzado,Guardeiro,Profissional
+133,Atleta_133,Super-Pesado,23,Faixa Roxa,Japão,22,16,7,48,52,No-Gi,Estrangulamento cruzado,Triângulo,Passador,Amador
+134,Atleta_134,Pluma,23,Faixa Marrom,Espanha,70,9,56,62,38,Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+135,Atleta_135,Super-Pesado,19,Faixa Preta,França,52,15,50,79,21,Gi,Triângulo,Armlock,Passador,Profissional
+136,Atleta_136,Pesado,22,Faixa Roxa,Brasil,41,30,90,74,26,Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Profissional
+137,Atleta_137,Galo,20,Faixa Azul,Portugal,32,9,71,41,59,No-Gi,Mata-leão,Estrangulamento cruzado,Guardeiro,Amador
+138,Atleta_138,Pluma,19,Faixa Roxa,Espanha,63,4,15,61,39,No-Gi,Omoplata,Omoplata,Passador,Amador
+139,Atleta_139,Leve,27,Faixa Preta,Brasil,50,15,74,35,65,No-Gi,Armlock,Chave de calcanhar,Passador,Profissional
+140,Atleta_140,Galo,30,Faixa Preta,Brasil,54,23,33,76,24,Gi,Triângulo,Estrangulamento cruzado,Passador,Profissional
+141,Atleta_141,Pluma,36,Faixa Marrom,EUA,10,22,70,65,35,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Passador,Profissional
+142,Atleta_142,Pesadíssimo,38,Faixa Roxa,Japão,22,4,92,36,64,No-Gi,Mata-leão,Triângulo,Passador,Amador
+143,Atleta_143,Médio,19,Faixa Marrom,Portugal,70,25,70,30,70,No-Gi,Triângulo,Mata-leão,Passador,Profissional
+144,Atleta_144,Galo,38,Faixa Marrom,Portugal,20,23,56,58,42,No-Gi,Chave de calcanhar,Guilhotina,Guardeiro,Profissional
+145,Atleta_145,Pesadíssimo,40,Faixa Preta,Portugal,71,17,11,69,31,No-Gi,Mata-leão,Guilhotina,Passador,Profissional
+146,Atleta_146,Pluma,20,Faixa Marrom,Itália,42,19,58,60,40,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Profissional
+147,Atleta_147,Galo,29,Faixa Preta,Portugal,12,4,86,52,48,No-Gi,Triângulo,Omoplata,Passador,Amador
+148,Atleta_148,Pesadíssimo,19,Faixa Roxa,Brasil,35,23,47,71,29,No-Gi,Omoplata,Mata-leão,Passador,Profissional
+149,Atleta_149,Pesado,32,Faixa Azul,França,22,33,47,57,43,No-Gi,Triângulo,Chave de calcanhar,Guardeiro,Amador
+150,Atleta_150,Galo,23,Faixa Preta,França,54,35,16,73,27,No-Gi,Estrangulamento cruzado,Triângulo,Guardeiro,Amador
+151,Atleta_151,Meio-Pesado,40,Faixa Preta,EUA,20,8,10,41,59,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Amador
+152,Atleta_152,Pesado,39,Faixa Marrom,Itália,13,35,70,37,63,No-Gi,Triângulo,Estrangulamento cruzado,Passador,Amador
+153,Atleta_153,Pesado,34,Faixa Roxa,Brasil,30,8,31,30,70,No-Gi,Mata-leão,Triângulo,Guardeiro,Profissional
+154,Atleta_154,Leve,37,Faixa Azul,Brasil,44,25,92,45,55,No-Gi,Omoplata,Guilhotina,Guardeiro,Amador
+155,Atleta_155,Pesado,38,Faixa Azul,Espanha,64,33,45,72,28,Gi,Estrangulamento cruzado,Estrangulamento cruzado,Passador,Amador
+156,Atleta_156,Galo,21,Faixa Roxa,Portugal,26,10,42,53,47,Gi,Triângulo,Omoplata,Guardeiro,Amador
+157,Atleta_157,Médio,38,Faixa Marrom,EUA,43,39,69,64,36,Gi,Omoplata,Chave de calcanhar,Passador,Amador
+158,Atleta_158,Pesado,36,Faixa Azul,Japão,8,5,6,70,30,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Amador
+159,Atleta_159,Meio-Pesado,38,Faixa Marrom,Espanha,36,25,39,49,51,No-Gi,Mata-leão,Chave de calcanhar,Passador,Amador
+160,Atleta_160,Super-Pesado,33,Faixa Preta,EUA,48,38,19,52,48,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Profissional
+161,Atleta_161,Leve,29,Faixa Azul,Portugal,35,29,16,55,45,No-Gi,Guilhotina,Armlock,Passador,Amador
+162,Atleta_162,Meio-Pesado,30,Faixa Preta,EUA,25,20,74,77,23,No-Gi,Armlock,Estrangulamento cruzado,Passador,Profissional
+163,Atleta_163,Pesadíssimo,33,Faixa Marrom,Espanha,7,5,51,48,52,No-Gi,Armlock,Armlock,Guardeiro,Amador
+164,Atleta_164,Meio-Pesado,33,Faixa Preta,Portugal,73,0,14,77,23,No-Gi,Armlock,Triângulo,Guardeiro,Profissional
+165,Atleta_165,Galo,30,Faixa Azul,França,76,12,47,57,43,No-Gi,Mata-leão,Guilhotina,Guardeiro,Profissional
+166,Atleta_166,Pluma,22,Faixa Azul,Espanha,52,21,72,41,59,No-Gi,Estrangulamento cruzado,Armlock,Passador,Profissional
+167,Atleta_167,Galo,19,Faixa Azul,EUA,47,30,67,48,52,No-Gi,Armlock,Omoplata,Passador,Profissional
+168,Atleta_168,Pesado,23,Faixa Preta,França,43,37,44,41,59,No-Gi,Chave de calcanhar,Omoplata,Guardeiro,Profissional
+169,Atleta_169,Pesado,28,Faixa Azul,Espanha,79,19,93,79,21,Gi,Omoplata,Guilhotina,Guardeiro,Amador
+170,Atleta_170,Galo,36,Faixa Preta,EUA,72,40,93,34,66,No-Gi,Armlock,Estrangulamento cruzado,Passador,Amador
+171,Atleta_171,Pluma,24,Faixa Azul,Espanha,45,26,20,44,56,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Profissional
+172,Atleta_172,Galo,40,Faixa Roxa,França,31,35,42,33,67,No-Gi,Omoplata,Guilhotina,Guardeiro,Amador
+173,Atleta_173,Pesado,35,Faixa Marrom,Itália,38,39,62,51,49,Gi,Armlock,Triângulo,Guardeiro,Amador
+174,Atleta_174,Meio-Pesado,40,Faixa Roxa,Itália,67,20,62,61,39,No-Gi,Omoplata,Estrangulamento cruzado,Guardeiro,Profissional
+175,Atleta_175,Super-Pesado,30,Faixa Marrom,Japão,23,18,6,73,27,No-Gi,Chave de calcanhar,Mata-leão,Guardeiro,Profissional
+176,Atleta_176,Meio-Pesado,33,Faixa Roxa,EUA,73,17,72,39,61,No-Gi,Armlock,Mata-leão,Passador,Amador
+177,Atleta_177,Médio,38,Faixa Roxa,Brasil,17,26,43,77,23,No-Gi,Mata-leão,Chave de calcanhar,Passador,Amador
+178,Atleta_178,Leve,31,Faixa Preta,Espanha,30,18,42,45,55,No-Gi,Chave de calcanhar,Mata-leão,Passador,Amador
+179,Atleta_179,Galo,23,Faixa Preta,Japão,27,2,51,46,54,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Amador
+180,Atleta_180,Meio-Pesado,36,Faixa Azul,Portugal,41,29,83,80,20,No-Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+181,Atleta_181,Pluma,28,Faixa Roxa,Itália,63,16,92,68,32,Gi,Mata-leão,Chave de calcanhar,Guardeiro,Profissional
+182,Atleta_182,Médio,23,Faixa Preta,Japão,59,32,42,44,56,Gi,Guilhotina,Chave de calcanhar,Passador,Amador
+183,Atleta_183,Pesadíssimo,28,Faixa Roxa,Brasil,38,24,31,72,28,No-Gi,Estrangulamento cruzado,Triângulo,Guardeiro,Profissional
+184,Atleta_184,Galo,26,Faixa Marrom,Itália,35,3,86,43,57,Gi,Guilhotina,Triângulo,Passador,Profissional
+185,Atleta_185,Meio-Pesado,40,Faixa Azul,Itália,42,23,79,37,63,Gi,Armlock,Armlock,Guardeiro,Amador
+186,Atleta_186,Pesado,31,Faixa Preta,Japão,73,13,98,51,49,Gi,Chave de calcanhar,Estrangulamento cruzado,Passador,Profissional
+187,Atleta_187,Pesado,20,Faixa Azul,Brasil,75,32,26,47,53,Gi,Armlock,Triângulo,Guardeiro,Amador
+188,Atleta_188,Médio,40,Faixa Preta,Brasil,70,28,8,37,63,No-Gi,Armlock,Omoplata,Guardeiro,Profissional
+189,Atleta_189,Galo,35,Faixa Preta,Itália,44,1,51,44,56,No-Gi,Estrangulamento cruzado,Mata-leão,Passador,Amador
+190,Atleta_190,Super-Pesado,29,Faixa Azul,França,12,4,61,78,22,Gi,Triângulo,Guilhotina,Passador,Amador
+191,Atleta_191,Super-Pesado,29,Faixa Preta,Espanha,53,24,11,31,69,Gi,Chave de calcanhar,Estrangulamento cruzado,Guardeiro,Amador
+192,Atleta_192,Super-Pesado,34,Faixa Roxa,Itália,33,0,97,69,31,Gi,Triângulo,Guilhotina,Guardeiro,Profissional
+193,Atleta_193,Médio,32,Faixa Marrom,EUA,40,12,93,66,34,Gi,Mata-leão,Estrangulamento cruzado,Guardeiro,Amador
+194,Atleta_194,Médio,20,Faixa Azul,França,9,28,77,65,35,Gi,Armlock,Chave de calcanhar,Passador,Profissional
+195,Atleta_195,Médio,35,Faixa Roxa,Japão,12,8,65,52,48,No-Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+196,Atleta_196,Meio-Pesado,22,Faixa Roxa,Espanha,43,17,8,65,35,Gi,Chave de calcanhar,Chave de calcanhar,Guardeiro,Profissional
+197,Atleta_197,Pesado,38,Faixa Preta,Japão,72,20,90,77,23,No-Gi,Guilhotina,Armlock,Guardeiro,Profissional
+198,Atleta_198,Pesadíssimo,25,Faixa Roxa,Portugal,23,29,8,69,31,No-Gi,Guilhotina,Omoplata,Passador,Profissional
+199,Atleta_199,Meio-Pesado,24,Faixa Marrom,Itália,15,28,48,65,35,Gi,Omoplata,Chave de calcanhar,Passador,Amador
+200,Atleta_200,Super-Pesado,39,Faixa Azul,Japão,14,12,98,63,37,Gi,Guilhotina,Armlock,Guardeiro,Profissional
+201,Atleta_201,Médio,24,Faixa Azul,Itália,66,15,90,80,20,Gi,Guilhotina,Armlock,Guardeiro,Profissional
+202,Atleta_202,Pesadíssimo,35,Faixa Marrom,Portugal,38,23,66,56,44,No-Gi,Guilhotina,Mata-leão,Guardeiro,Profissional
+203,Atleta_203,Pesado,28,Faixa Preta,Brasil,77,14,95,67,33,Gi,Mata-leão,Triângulo,Guardeiro,Profissional
+204,Atleta_204,Médio,28,Faixa Roxa,Espanha,77,15,64,71,29,No-Gi,Triângulo,Estrangulamento cruzado,Guardeiro,Profissional
+205,Atleta_205,Leve,29,Faixa Roxa,EUA,74,31,24,51,49,Gi,Omoplata,Mata-leão,Passador,Amador
+206,Atleta_206,Galo,31,Faixa Roxa,Japão,34,4,91,32,68,Gi,Mata-leão,Armlock,Guardeiro,Profissional
+207,Atleta_207,Pesadíssimo,39,Faixa Preta,Brasil,5,34,71,77,23,No-Gi,Mata-leão,Mata-leão,Guardeiro,Profissional
+208,Atleta_208,Super-Pesado,23,Faixa Azul,Brasil,72,9,31,79,21,Gi,Omoplata,Omoplata,Guardeiro,Profissional
+209,Atleta_209,Super-Pesado,20,Faixa Marrom,Espanha,63,36,32,63,37,Gi,Triângulo,Chave de calcanhar,Passador,Amador
+210,Atleta_210,Super-Pesado,30,Faixa Preta,França,65,3,82,75,25,Gi,Chave de calcanhar,Armlock,Passador,Profissional
+211,Atleta_211,Pesado,36,Faixa Azul,França,10,14,28,53,47,No-Gi,Triângulo,Mata-leão,Passador,Profissional
+212,Atleta_212,Galo,23,Faixa Marrom,Brasil,31,37,19,46,54,No-Gi,Mata-leão,Triângulo,Passador,Amador
+213,Atleta_213,Super-Pesado,39,Faixa Marrom,Espanha,22,5,65,44,56,No-Gi,Mata-leão,Mata-leão,Guardeiro,Amador
+214,Atleta_214,Pesado,37,Faixa Preta,Japão,46,1,82,76,24,No-Gi,Estrangulamento cruzado,Guilhotina,Guardeiro,Amador
+215,Atleta_215,Super-Pesado,31,Faixa Roxa,Itália,79,24,11,58,42,No-Gi,Estrangulamento cruzado,Armlock,Passador,Amador
+216,Atleta_216,Leve,30,Faixa Roxa,Itália,54,20,47,63,37,Gi,Mata-leão,Mata-leão,Guardeiro,Profissional
+217,Atleta_217,Meio-Pesado,21,Faixa Roxa,Brasil,28,27,58,57,43,No-Gi,Mata-leão,Mata-leão,Passador,Profissional
+218,Atleta_218,Pluma,37,Faixa Marrom,Japão,54,0,38,45,55,No-Gi,Guilhotina,Estrangulamento cruzado,Passador,Amador
+219,Atleta_219,Leve,39,Faixa Preta,EUA,22,17,39,44,56,No-Gi,Guilhotina,Armlock,Passador,Amador
+220,Atleta_220,Meio-Pesado,31,Faixa Marrom,Espanha,14,23,33,53,47,Gi,Chave de calcanhar,Chave de calcanhar,Guardeiro,Amador
+221,Atleta_221,Pluma,22,Faixa Marrom,Brasil,55,21,80,51,49,No-Gi,Estrangulamento cruzado,Estrangulamento cruzado,Guardeiro,Profissional
+222,Atleta_222,Super-Pesado,38,Faixa Roxa,Portugal,46,38,89,59,41,Gi,Guilhotina,Triângulo,Passador,Profissional
+223,Atleta_223,Meio-Pesado,40,Faixa Preta,França,36,20,49,60,40,No-Gi,Estrangulamento cruzado,Estrangulamento cruzado,Guardeiro,Profissional
+224,Atleta_224,Médio,36,Faixa Roxa,Itália,75,1,94,73,27,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Profissional
+225,Atleta_225,Pluma,31,Faixa Preta,EUA,43,15,33,36,64,Gi,Chave de calcanhar,Guilhotina,Guardeiro,Amador
+226,Atleta_226,Pesadíssimo,36,Faixa Preta,França,69,26,70,52,48,Gi,Estrangulamento cruzado,Triângulo,Passador,Amador
+227,Atleta_227,Médio,39,Faixa Marrom,EUA,10,36,83,31,69,No-Gi,Estrangulamento cruzado,Triângulo,Guardeiro,Amador
+228,Atleta_228,Pluma,26,Faixa Roxa,França,71,35,75,80,20,Gi,Guilhotina,Triângulo,Guardeiro,Profissional
+229,Atleta_229,Leve,29,Faixa Azul,Espanha,18,18,54,31,69,Gi,Mata-leão,Estrangulamento cruzado,Passador,Profissional
+230,Atleta_230,Pesado,32,Faixa Roxa,França,66,22,61,61,39,Gi,Guilhotina,Chave de calcanhar,Guardeiro,Profissional
+231,Atleta_231,Meio-Pesado,19,Faixa Azul,Brasil,48,6,87,76,24,Gi,Chave de calcanhar,Armlock,Passador,Amador
+232,Atleta_232,Super-Pesado,32,Faixa Roxa,Japão,56,40,24,59,41,Gi,Chave de calcanhar,Chave de calcanhar,Guardeiro,Profissional
+233,Atleta_233,Médio,32,Faixa Preta,Espanha,5,13,27,79,21,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Passador,Amador
+234,Atleta_234,Leve,29,Faixa Marrom,EUA,63,7,34,46,54,No-Gi,Omoplata,Chave de calcanhar,Guardeiro,Profissional
+235,Atleta_235,Super-Pesado,36,Faixa Azul,Portugal,50,29,80,41,59,Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Amador
+236,Atleta_236,Leve,28,Faixa Azul,EUA,44,7,24,37,63,No-Gi,Chave de calcanhar,Armlock,Guardeiro,Profissional
+237,Atleta_237,Leve,36,Faixa Preta,Espanha,28,31,82,42,58,Gi,Omoplata,Armlock,Guardeiro,Profissional
+238,Atleta_238,Leve,28,Faixa Preta,França,11,22,2,72,28,No-Gi,Armlock,Armlock,Guardeiro,Profissional
+239,Atleta_239,Pesadíssimo,31,Faixa Preta,Espanha,26,5,73,54,46,Gi,Estrangulamento cruzado,Estrangulamento cruzado,Passador,Profissional
+240,Atleta_240,Meio-Pesado,25,Faixa Marrom,EUA,63,36,96,78,22,No-Gi,Omoplata,Omoplata,Passador,Amador
+241,Atleta_241,Pesado,35,Faixa Azul,Japão,61,34,28,63,37,No-Gi,Mata-leão,Chave de calcanhar,Passador,Profissional
+242,Atleta_242,Pesadíssimo,26,Faixa Marrom,Japão,16,28,16,78,22,Gi,Armlock,Estrangulamento cruzado,Guardeiro,Profissional
+243,Atleta_243,Leve,24,Faixa Roxa,Japão,12,36,45,70,30,No-Gi,Omoplata,Omoplata,Passador,Profissional
+244,Atleta_244,Meio-Pesado,27,Faixa Marrom,Japão,70,6,18,35,65,No-Gi,Mata-leão,Triângulo,Passador,Amador
+245,Atleta_245,Leve,40,Faixa Marrom,Japão,36,25,63,65,35,Gi,Omoplata,Chave de calcanhar,Guardeiro,Profissional
+246,Atleta_246,Pesadíssimo,20,Faixa Azul,Espanha,70,17,89,56,44,No-Gi,Guilhotina,Guilhotina,Guardeiro,Amador
+247,Atleta_247,Pluma,32,Faixa Marrom,Japão,13,34,51,31,69,Gi,Guilhotina,Estrangulamento cruzado,Passador,Profissional
+248,Atleta_248,Pesado,27,Faixa Marrom,França,78,8,73,63,37,No-Gi,Estrangulamento cruzado,Triângulo,Passador,Amador
+249,Atleta_249,Pesadíssimo,18,Faixa Azul,Japão,25,28,59,74,26,Gi,Guilhotina,Armlock,Passador,Profissional
+250,Atleta_250,Meio-Pesado,20,Faixa Marrom,Portugal,15,23,86,70,30,Gi,Mata-leão,Guilhotina,Guardeiro,Amador
+251,Atleta_251,Pluma,40,Faixa Azul,Brasil,32,30,10,53,47,Gi,Omoplata,Armlock,Guardeiro,Amador
+252,Atleta_252,Pesado,21,Faixa Preta,Itália,21,30,10,80,20,Gi,Guilhotina,Mata-leão,Passador,Amador
+253,Atleta_253,Pesado,27,Faixa Roxa,Espanha,22,9,9,60,40,Gi,Omoplata,Chave de calcanhar,Passador,Profissional
+254,Atleta_254,Médio,38,Faixa Roxa,Espanha,61,13,12,58,42,Gi,Armlock,Estrangulamento cruzado,Passador,Profissional
+255,Atleta_255,Super-Pesado,28,Faixa Roxa,EUA,40,5,32,58,42,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Passador,Profissional
+256,Atleta_256,Médio,30,Faixa Marrom,Itália,11,15,64,67,33,No-Gi,Mata-leão,Armlock,Guardeiro,Amador
+257,Atleta_257,Galo,29,Faixa Marrom,EUA,54,36,54,47,53,No-Gi,Omoplata,Chave de calcanhar,Passador,Profissional
+258,Atleta_258,Pluma,18,Faixa Azul,Brasil,38,13,6,31,69,Gi,Estrangulamento cruzado,Guilhotina,Guardeiro,Profissional
+259,Atleta_259,Super-Pesado,20,Faixa Roxa,Portugal,15,19,11,53,47,Gi,Estrangulamento cruzado,Armlock,Guardeiro,Profissional
+260,Atleta_260,Pluma,27,Faixa Preta,Itália,35,3,32,43,57,Gi,Guilhotina,Mata-leão,Guardeiro,Amador
+261,Atleta_261,Leve,21,Faixa Azul,Itália,22,0,21,61,39,No-Gi,Triângulo,Omoplata,Guardeiro,Amador
+262,Atleta_262,Leve,26,Faixa Azul,Japão,8,21,55,57,43,No-Gi,Omoplata,Mata-leão,Guardeiro,Amador
+263,Atleta_263,Pesadíssimo,34,Faixa Marrom,Brasil,68,36,22,49,51,No-Gi,Armlock,Triângulo,Passador,Amador
+264,Atleta_264,Galo,19,Faixa Azul,EUA,10,30,47,66,34,No-Gi,Armlock,Armlock,Passador,Profissional
+265,Atleta_265,Pesado,25,Faixa Preta,Itália,45,17,10,66,34,No-Gi,Mata-leão,Omoplata,Passador,Amador
+266,Atleta_266,Galo,30,Faixa Azul,Espanha,41,19,42,66,34,Gi,Omoplata,Guilhotina,Passador,Profissional
+267,Atleta_267,Meio-Pesado,36,Faixa Marrom,Itália,36,29,48,68,32,No-Gi,Estrangulamento cruzado,Estrangulamento cruzado,Passador,Amador
+268,Atleta_268,Galo,31,Faixa Azul,EUA,74,22,82,71,29,Gi,Triângulo,Mata-leão,Guardeiro,Profissional
+269,Atleta_269,Médio,34,Faixa Roxa,Espanha,67,3,19,74,26,No-Gi,Mata-leão,Mata-leão,Passador,Profissional
+270,Atleta_270,Pesado,32,Faixa Azul,França,17,32,18,36,64,No-Gi,Mata-leão,Omoplata,Passador,Profissional
+271,Atleta_271,Leve,25,Faixa Marrom,Portugal,45,25,90,38,62,No-Gi,Triângulo,Guilhotina,Guardeiro,Amador
+272,Atleta_272,Médio,22,Faixa Azul,EUA,18,10,58,76,24,No-Gi,Triângulo,Guilhotina,Passador,Profissional
+273,Atleta_273,Médio,32,Faixa Marrom,Espanha,38,7,12,31,69,Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Amador
+274,Atleta_274,Pesado,22,Faixa Azul,Itália,36,22,51,67,33,Gi,Chave de calcanhar,Triângulo,Guardeiro,Amador
+275,Atleta_275,Super-Pesado,32,Faixa Roxa,Brasil,64,6,18,79,21,Gi,Mata-leão,Mata-leão,Passador,Amador
+276,Atleta_276,Super-Pesado,29,Faixa Azul,França,80,16,10,68,32,Gi,Mata-leão,Armlock,Guardeiro,Amador
+277,Atleta_277,Pesado,21,Faixa Azul,Espanha,11,10,74,75,25,No-Gi,Estrangulamento cruzado,Chave de calcanhar,Guardeiro,Profissional
+278,Atleta_278,Super-Pesado,39,Faixa Preta,EUA,50,13,24,79,21,No-Gi,Triângulo,Guilhotina,Passador,Amador
+279,Atleta_279,Médio,38,Faixa Marrom,Espanha,57,35,62,41,59,Gi,Mata-leão,Triângulo,Guardeiro,Amador
+280,Atleta_280,Médio,38,Faixa Roxa,Itália,74,1,49,54,46,No-Gi,Guilhotina,Omoplata,Guardeiro,Profissional
+281,Atleta_281,Pesado,30,Faixa Marrom,EUA,8,20,77,44,56,Gi,Mata-leão,Estrangulamento cruzado,Guardeiro,Amador
+282,Atleta_282,Pesado,36,Faixa Roxa,EUA,17,15,85,50,50,Gi,Triângulo,Omoplata,Passador,Amador
+283,Atleta_283,Super-Pesado,29,Faixa Roxa,EUA,35,37,41,44,56,No-Gi,Omoplata,Mata-leão,Guardeiro,Amador
+284,Atleta_284,Médio,33,Faixa Marrom,EUA,67,2,12,44,56,Gi,Armlock,Omoplata,Passador,Amador
+285,Atleta_285,Pesadíssimo,18,Faixa Marrom,França,30,8,44,47,53,Gi,Estrangulamento cruzado,Estrangulamento cruzado,Guardeiro,Amador
+286,Atleta_286,Leve,36,Faixa Roxa,Japão,19,33,47,79,21,Gi,Triângulo,Chave de calcanhar,Guardeiro,Amador
+287,Atleta_287,Meio-Pesado,28,Faixa Roxa,EUA,60,40,63,59,41,No-Gi,Armlock,Chave de calcanhar,Guardeiro,Amador
+288,Atleta_288,Leve,30,Faixa Marrom,Itália,42,8,23,38,62,Gi,Chave de calcanhar,Omoplata,Guardeiro,Amador
+289,Atleta_289,Pesado,37,Faixa Roxa,Itália,77,6,64,69,31,Gi,Triângulo,Chave de calcanhar,Passador,Amador
+290,Atleta_290,Pesado,23,Faixa Azul,Japão,47,28,2,58,42,No-Gi,Armlock,Armlock,Passador,Profissional
+291,Atleta_291,Pluma,18,Faixa Azul,Espanha,61,26,22,64,36,No-Gi,Guilhotina,Guilhotina,Guardeiro,Profissional
+292,Atleta_292,Pesadíssimo,36,Faixa Roxa,EUA,62,4,5,74,26,No-Gi,Mata-leão,Triângulo,Guardeiro,Amador
+293,Atleta_293,Pesado,23,Faixa Preta,EUA,14,35,12,76,24,No-Gi,Omoplata,Omoplata,Guardeiro,Amador
+294,Atleta_294,Leve,37,Faixa Preta,EUA,11,6,43,53,47,Gi,Armlock,Guilhotina,Guardeiro,Profissional
+295,Atleta_295,Médio,21,Faixa Azul,Espanha,78,35,63,61,39,Gi,Mata-leão,Triângulo,Passador,Profissional
+296,Atleta_296,Meio-Pesado,39,Faixa Preta,EUA,17,1,27,75,25,Gi,Chave de calcanhar,Triângulo,Passador,Profissional
+297,Atleta_297,Meio-Pesado,30,Faixa Preta,Espanha,38,5,83,73,27,No-Gi,Armlock,Triângulo,Guardeiro,Profissional
+298,Atleta_298,Pesadíssimo,19,Faixa Marrom,Espanha,64,16,29,69,31,No-Gi,Omoplata,Mata-leão,Passador,Amador
+299,Atleta_299,Pesado,35,Faixa Preta,Japão,80,14,71,75,25,Gi,Estrangulamento cruzado,Guilhotina,Guardeiro,Profissional
+300,Atleta_300,Médio,33,Faixa Marrom,Brasil,55,2,65,44,56,Gi,Mata-leão,Estrangulamento cruzado,Guardeiro,Amador
